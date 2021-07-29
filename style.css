@@ -10,3 +10,11 @@ header{
 #btn{
     background-color: #E76F51;
 }
+.newsletter{
+    background-image: url("images/brands/email-2.jpg");
+    background-repeat: no-repeat;
+  
+}
+.feature-bike{
+    filter: grayscale(1);
+}
